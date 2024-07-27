@@ -1,0 +1,8 @@
+prefix=/home/ros/catkin_ws/install
+
+Name: ros_hand_gesture_recognition
+Description: Description of ros_hand_gesture_recognition
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
